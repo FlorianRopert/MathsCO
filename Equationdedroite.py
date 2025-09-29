@@ -1,4 +1,4 @@
-AbscissePa = int(input("Entrez xa"))
+AbscissePa = int(input("Entrez xa oui"))
 OrdonnéePa = int(input("Entrez ya"))
 AbscissePb = int(input("Entrez xb"))
 OrdonnéePb = int(input("Entrez yb"))
